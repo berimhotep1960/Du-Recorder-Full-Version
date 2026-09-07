@@ -234,3 +234,6 @@ This repository serves as the official landing page for DU Recorder. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DU Recorder today!**
+
+---
+**Last updated:** 2026-09-07 18:32:20 UTC
